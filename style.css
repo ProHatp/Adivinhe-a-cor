@@ -1,0 +1,24 @@
+.ball {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 100%;
+    border: 1px solid black;
+  }
+  
+  #local-cores {
+    border: 1px solid black;
+    width: 450px;
+    padding: 15px 25px 0 0;
+  }
+  
+  .local-pontos , #score {
+    display: inline-block;
+    margin: 10px 0 10px 10px;
+  }
+  
+  .espacamento {
+    margin: 30px;
+  }
+  
